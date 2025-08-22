@@ -1,0 +1,23 @@
+body 
+h2{
+    background-color: blue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    display: inline-block
+    
+}
+
+h1:hover{
+ background-color: gold;
+}
+.one{
+    display: inline-block;
+}
+
+head{
+    background-color: blue;
+        
+}

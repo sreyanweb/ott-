@@ -1,0 +1,26 @@
+
+body 
+h2{
+    background-color: blue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    display: inline-block
+    
+}
+
+.one{
+    display: inline-block;
+}
+
+#two{
+    display:inline-block;
+    background-color: green;
+}
+
+h6{
+    background-color: blue;
+    align-items: center;
+    }
